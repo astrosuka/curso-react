@@ -1,0 +1,23 @@
+.navbar {
+  display: flex;
+  gap: 1rem;
+}
+
+.navbar .nav-link {
+  color: oklch(1 0.2 12);
+  padding: 2px 8px;
+}
+
+.cart-button {
+  background-color: oklch(2 0.2 12 / 10%);
+  border-radius: 1rem;
+}
+
+.cart-button:hover {
+  background-color: oklch(2 0.3 12 / 10%);
+  border-radius: 1rem;
+}
+
+.navbar .nav-link:hover {
+  color: oklch(1 0.3 12);
+}

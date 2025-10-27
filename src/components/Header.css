@@ -4,6 +4,7 @@
   position: fixed;
   top: 0rem;
   left: 0rem;
-  padding: 1rem;
+  padding: 0.5rem;
   width: 100%;
+  background-color: oklch(0.2 0.3 200 / 50%);
 }

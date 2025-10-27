@@ -1,0 +1,5 @@
+.card {
+  border: 1px solid oklch(0.3 0.3 200 / 50%);
+  border-radius: 5px;
+  margin: 0.5rem;
+}
